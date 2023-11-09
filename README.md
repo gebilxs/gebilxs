@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying in tjut
+- 🔭 My master's degree will be in SEU and my undergraduate degree was in TJUT
 
 - 🌱 I’m currently learning Golang
 
