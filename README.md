@@ -24,11 +24,6 @@
 <table>
 <tbody>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=gebilxs&theme=material-palenight" alt="GitHub activity" />
-    </td>
-  </tr>
-  <tr>
     <td align="left">
       <img src="https://github-profile-trophy.vercel.app/?username=gebilxs&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy" />
     </td>
