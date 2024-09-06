@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Golang
 
-- 📫 How to reach me: 1799676669@qq.com
+- 📫 How to reach me: gebilxs@gmail.com
 
 - 😄 Blog：https://gebilxs.github.io/(fixing)
 
