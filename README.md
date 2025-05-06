@@ -2,8 +2,6 @@
 
 - 🔭 My master's degree will be in SEU and my undergraduate degree was in TJUT
 
-- 🌱 I’m currently learning Golang
-
 - 📫 How to reach me: 220245473@seu.edu.cn, gebilxs@gmail.com
 
 - 😄 Blog：https://gebilxs.github.io/(fixing)
