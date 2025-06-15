@@ -2,7 +2,7 @@
 
 - 🔭 My master's degree will be in SEU and my undergraduate degree was in TJUT
 
-- 📫 How to reach me: 220245473@seu.edu.cn, gebilxs@gmail.com
+- 📫 How to reach me: chuokunxu@seu.edu.cn, gebilxs@gmail.com
 
 - 😄 Blog：https://gebilxs.github.io/(fixing)
 
