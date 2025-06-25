@@ -20,14 +20,5 @@
 ## 📈 Stats
 
 <table>
-<tbody>
-  <tr>
-    <td align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=gebilxs&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy" />
-    </td>
-    <td align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=gebilxs&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
-    </td>
-  </tr>
-</tbody>
 </table>
