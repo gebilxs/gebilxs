@@ -17,8 +17,4 @@
 
 
  -->
-## 📈 Stats
 
-<table>
-      <img src="https://github-readme-stats.vercel.app/api?username=gebilxs&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
-</table>
