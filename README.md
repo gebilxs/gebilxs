@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently studying for my master's degree at SEU. I completed my undergraduate degree at TJUT.
+- 🔭 I am currently studying for my master's degree at SEU.
 
 - 📫 How to reach me: chuokunxu@seu.edu.cn, gebilxs@gmail.com
 
